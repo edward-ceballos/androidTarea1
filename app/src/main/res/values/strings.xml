@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hello App</string>
+    <string name="bot_n">Botón</string>
+    <string name="klk_manin">Klk Manin</string>
+    <string name="todo">TODO</string>
+    <string name="bot_n_1">Botón 1</string>
+    <string name="bot_n_2">Botón 2</string>
+    <string name="bot_n_3">Botón 3</string>
+    <string name="bot_n_4">Botón 4</string>
+    <string name="bot_n_5">Botón 5</string>
+    <string name="bot_n_6">Botón 6</string>
+    <string name="title_activity_boton1">Pantalla 1</string>
+    <string name="title_activity_boton2">Pantalla 2</string>
+    <string name="title_activity_boton3">Pantalla 3</string>
+    <string name="title_activity_boton4">Pantalla 4</string>
+    <string name="title_activity_boton5">Pantalla 5</string>
+    <string name="title_activity_boton6">Pantalla 6</string>
+    <string name="buttonL">Volver</string>
+    <string name="textview1">Texto primera pantalla</string>
+    <string name="textview2">Texto segunda pantalla</string>
+    <string name="textview3">Texto tercera pantalla</string>
+    <string name="textview4">Texto cuarta pantalla</string>
+    <string name="textview5">Texto quinta pantalla</string>
+    <string name="textview6">Texto sexta pantalla</string>
+</resources>
